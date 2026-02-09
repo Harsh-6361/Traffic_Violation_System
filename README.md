@@ -1,3 +1,6 @@
+# GUARDIAN
+
+## Geospatial Urban Analytics & Real-time Driver Intelligent AI Network
 # Traffic Violation Detection System
 
 An AI-powered traffic violation detection system that uses **YOLOv8** for real-time helmet violation detection from dashcam footage and **PaddleOCR** for automatic license plate recognition.
