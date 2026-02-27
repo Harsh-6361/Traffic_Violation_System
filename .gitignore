@@ -1,0 +1,27 @@
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Heavy Model Weights
+*.pt
+runs/
+
+# Media & Datasets
+input_video/
+output/
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
+*.csv
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
